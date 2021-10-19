@@ -6,7 +6,7 @@
 
 ![](https://youdaonotes.oss-cn-shanghai.aliyuncs.com/cicd/20211019112816.png)
 
-![](https://youdaonotes.oss-cn-shanghai.aliyuncs.com/cicd/20211019112939.png)
+![](https://youdaonotes.oss-cn-shanghai.aliyuncs.com/cicd/20211019113739.png)
 
 使用nsenter查看容器IP
 
